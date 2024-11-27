@@ -1,7 +1,7 @@
 {
   "name": "convertImagesToWebp",
   "version": "1.0.0",
-  "description": "Un convertisseur gratuit et efficace qui permet de transformer un nombre illimité d'images aux formats JPG, JPEG et PNG en WebP simultanément. Le format WebP offre une compression avancée qui réduit la taille des fichiers tout en préservant leur qualité, optimisant ainsi l'espace de stockage et accélérant la performance de vos sites web.",
+  "description": "Made in France - Un convertisseur gratuit et efficace qui permet de transformer un nombre illimité d'images aux formats JPG, JPEG et PNG en WebP simultanément. Le format WebP offre une compression avancée qui réduit la taille des fichiers tout en préservant leur qualité, optimisant ainsi l'espace de stockage et accélérant la performance de vos sites web.",
   "main": "convertToWep.js",
   "scripts": {
     "convert": "node script.js",
